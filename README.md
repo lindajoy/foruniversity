@@ -1,6 +1,5 @@
 # DSC UNIVERSITY OF ELDORET
-![GitHub Logo](knockout_on_black_correct_720.png)
-Format: ![DSC](url)
+
 
 
 * This is a basic tutorial for machine learning beginners.
